@@ -1,0 +1,36 @@
+body {
+	box-sizing: border-box;
+}
+
+form>div {
+	padding: 15px 0px;
+}
+
+.wrap>div {
+	border: 1px solid black;
+	width: 40%;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.wrap #divresult {
+	float: right;
+	width: 58%;
+}
+
+ul {
+	padding: 0;	
+}
+
+li {
+	list-style-type: none;
+	border-bottom: 1px solid black;
+}
+
+#divresult {
+	border: none;
+}
+
+#numberFields {
+	width: 50px;
+}
